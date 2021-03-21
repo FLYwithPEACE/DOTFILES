@@ -11,7 +11,6 @@
 * nitrogen
 * polybar
 * polybar-themes (by adi1090x,  [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes))
-* ranger
 * zsh
 * oh-my-zsh
 * powerline
