@@ -21,4 +21,4 @@
 
 ## BG Credits
 
-I don't know yet. If you know, leave a case on issues. I will not stick to this background for long.
+RAIDYHD - https://wallhaven.cc/user/RaidyHD - https://vk.com/raidyhd
