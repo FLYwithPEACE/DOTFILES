@@ -1,6 +1,6 @@
 # DOTFILES
 
-![screenshot](https://raw.githubusercontent.com/FLYwithPEACE/DOTFILES/main/rice_screenshot.png?token=ALC2F4ZRXWVMNIEIKZBQB6TAL6RQI)
+![screenshot](https://raw.githubusercontent.com/FLYwithPEACE/DOTFILES/main/2021-03-22-13%3A08%3A17-screenshot.png)
 
 ## Dependencies
 
