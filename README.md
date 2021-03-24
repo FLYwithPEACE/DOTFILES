@@ -6,11 +6,16 @@
 
 * i3-gaps
 * kitty
-* comptom
+* picom
 * neovim
+* plug
 * nitrogen
+* thunar
+* modipy
+* ncmpcpp
+* pywal
 * polybar
-* polybar-themes (by adi1090x,  [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes))
+* redshift
 * zsh
 * oh-my-zsh
 * powerline
@@ -18,6 +23,16 @@
 * lightdm-webkit2-greeter
 * lightdm-webkit-theme-litarvan
 * rofi
+
+## Fonts
+
+* powerline fonts
+* Hack, Iosevka Nerd Font
+* CJK Fonts (CJK encoding required)
+
+## Themes
+
+Credit: Aditya Shakya - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes)
 
 ## BG Credits
 
