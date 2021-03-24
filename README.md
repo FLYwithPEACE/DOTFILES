@@ -1,6 +1,6 @@
 # DOTFILES
 
-![screenshot](https://raw.githubusercontent.com/FLYwithPEACE/DOTFILES/main/2021-03-22-13%3A08%3A17-screenshot.png)
+![screenshot](https://raw.githubusercontent.com/FLYwithPEACE/DOTFILES/main/2021-03-24-01%3A19%3A36-screenshot.png)
 
 ## Dependencies
 
