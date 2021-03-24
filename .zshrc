@@ -1,8 +1,15 @@
+#           _     
+#          | |    
+# ____ ___ | |__  
+#|_  // __|| '_ \ 
+# / / \__ \| | | |
+#/___||___/|_| |_|
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/fly/.oh-my-zsh"
+export ZSH="/home/flywithpeace/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -102,3 +109,15 @@ source $ZSH/oh-my-zsh.sh
 
 powerline-daemon -q
 . /usr/share/powerline/bindings/zsh/powerline.zsh
+
+# Import colorscheme from 'wal' asynchronously
+# &   # Run the process in the background.
+# ( ) # Hide shell job control messages.
+# Not supported in the "fish" shell.
+(cat ~/.cache/wal/sequences &)
+
+# Alternative (blocks terminal for 0-3ms)
+cat ~/.cache/wal/sequences
+
+# To add support for TTYs this line can be optionally added.
+source ~/.cache/wal/colors-tty.sh
